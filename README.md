@@ -2,7 +2,7 @@
 
 This repository contains the completed GameHub project as of the end of part 2 of my React course.
 
-You can find the full course at: https://codewithmosh.com
+You can find demo https://gamehub-fawn.vercel.app/
 
 ## Getting Started
 
